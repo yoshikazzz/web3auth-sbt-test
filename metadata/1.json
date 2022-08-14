@@ -1,0 +1,6 @@
+{
+  "name": "Sample NFT",
+  "description": "This is a sample NFT minting via Web3Auth",
+  "image": "https://raw.githubusercontent.com/yoshikazzz/web3auth-sbt-test/main/images/1.png",
+  "attributes": []
+}
